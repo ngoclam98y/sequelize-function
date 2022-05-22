@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Ngoclam@1998",
+    "database": "test",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Ngoclam@1998",
+    "database": "test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Ngoclam@1998",
+    "database": "test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
